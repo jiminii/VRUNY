@@ -69,9 +69,6 @@ We provide test dataset.
 * ***/data/TestData.json***
 * ***/data/clones/***
 
-※ We provide a dataset and cloned software of 8 CVEs for you to test.\
-Because preprocessing(e.g., cloning software) for all CVEs is time-consuming.
-
 
 
 ### 1. Preprocessing
